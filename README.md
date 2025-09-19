@@ -1,23 +1,4 @@
 # Skyvern
-
-<!-- Badges: A great way to show the status of your project. You can generate these from services like shields.io -->
-<!-- Replace `<your-username>/<your-repo>` with your actual GitHub username and repository name -->
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3.12-blue.svg" alt="Python 3.12">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
-  <a href="https://github.com/<your-username>/<your-repo>/actions">
-    <img src="https://github.com/<your-username>/<your-repo>/actions/workflows/ci.yml/badge.svg" alt="CI Status">
-  </a>
-</p>
-
-<!-- Project Logo or GIF: A visual representation of your project can be very effective. -->
-<!-- Replace the src URL with a link to your own logo or a GIF demonstrating the project -->
-<p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Skyvern+Project+Demo" alt="Skyvern Demo">
-</p>
-
-A brief but compelling description of what Skyvern does, who it's for, and the main problem it solves. This should be your "elevator pitch" to potential users and contributors.
-
 ---
 
 ## 🚀 Getting Started
